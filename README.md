@@ -47,7 +47,7 @@ Detailed documentation is available for each script to guide you through install
 
 ## 🤝 Community
 Join our community to share ideas, get support, and connect with other server owners and developers.  
-**Discord:** [Join Here](#)  
+**Discord:** [Join Here](https://discord.gg/TWZq47t9U6)  
 
 ---
 
